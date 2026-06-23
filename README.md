@@ -26,7 +26,7 @@ This repository is focused on the non-Streamlit application stack and does not r
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/vnex-lab/ATP.git
+git clone https://github.com/Redguru-max/ATP-engine.git
 cd ATP
 ```
 
